@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VAULT_ADDR="https://vault.local"
+# VAULT_ADDR="https://vault.local"
 VAULT_PATH="secret/kubectl"
 cluster=$1
 
