@@ -10,6 +10,7 @@ chmod +x vault2kubectl.sh
 ## How to use?
 
 ```bash
+export VAULT_ADDR=<vault-server>
 ./vault2kubectl.sh <cluster-name>
 ```
 
